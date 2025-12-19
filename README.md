@@ -1,6 +1,8 @@
 🎓 EduSuraksha
 
 EduSuraksha is an AI-powered student dropout prediction and support platform that helps educational institutions identify at-risk students early and provide timely academic and emotional support.
+# MentorMind
+  # AI-Powered Student Dashboard
 
 Designed for hackathons like NariYukti’25 / SIH, the system focuses on student well-being, retention, and data-driven intervention.
 
