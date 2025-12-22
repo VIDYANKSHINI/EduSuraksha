@@ -927,25 +927,7 @@ const studentData = [
       english: 88,
     },
   },
-  {
-    id: 42,
-    name: "Aryan Ghosh",
-    rollNo: "CS2023042",
-    attendance: 74,
-    attendanceTrend: "stable",
-    grades: 71,
-    gradesTrend: "up",
-    fees: "Paid",
-    riskLevel: "safe",
-    lastUpdate: "3 hours ago",
-    contact: "+91-9876543251",
-    email: "aryan@example.com",
-    subjects: {
-      math: 73,
-      physics: 69,
-      chemistry: 72,
-      english: 70,
-    },
+ 
   },
 ];
 
