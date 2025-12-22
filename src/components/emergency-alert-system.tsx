@@ -72,18 +72,7 @@ const mockAlerts: EmergencyAlert[] = [
     studentName: 'Aditya Yelmar',
     studentId: 'CS2023001'
   },
-  {
-    id: '2',
-    type: 'safety',
-    severity: 'medium',
-    description: 'Feeling unwell in class, possible fever',
-    location: 'Classroom 3A, Computer Science Block',
-    timestamp: '2024-02-29T11:15:00Z',
-    status: 'resolved',
-    studentName: 'Neha Gupta',
-    studentId: 'CS2023006',
-    respondedBy: 'School Nurse'
-  }
+ 
 ];
 
 // Emergency Alert Modal

@@ -867,7 +867,7 @@ export function AnonymousCounseling() {
                   },
                   {
                     icon: Shield,
-                    title: "Personal Safety",
+                    title: "Personal Safety in case any ",
                     description: "Feeling unsafe or threatened",
                   },
                   {

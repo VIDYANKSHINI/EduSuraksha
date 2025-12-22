@@ -131,7 +131,7 @@ export function ParentDashboard() {
       id: 3,
       title: 'Fee Payment',
       description: 'Complete pending semester fee',
-      urgency: 'high',
+      urgency: 'One paid one remaining',
       estimatedTime: '10 min'
     }
   ];
@@ -525,7 +525,7 @@ export function ParentDashboard() {
                   <Alert>
                     <Volume2 className="h-4 w-4" />
                     <AlertDescription>
-                      All messages can be received as voice notes in your preferred language (Hindi, English, Marathi, etc.)
+                      All messages can be received as voice notes in your preferred language (Hindi, English, etc.)
                     </AlertDescription>
                   </Alert>
                 </CardContent>
